@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper it accompanies (preferred-citation)."
+title: "Tångesund diatom chain-length study: analysis code"
+type: software
+authors:
+  - family-names: Torstensson
+    given-names: Anders
+    orcid: "https://orcid.org/0000-0002-8283-656X"
+    affiliation: "Swedish Meteorological and Hydrological Institute (SMHI)"
+  - family-names: Brosnahan
+    given-names: Michael L.
+    orcid: "https://orcid.org/0000-0002-2620-7638"
+    affiliation: "Woods Hole Oceanographic Institution (WHOI)"
+  - family-names: Cembella
+    given-names: Allan
+    orcid: "https://orcid.org/0000-0002-1297-2240"
+    affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)"
+  - family-names: Karlson
+    given-names: Bengt
+    orcid: "https://orcid.org/0000-0002-7524-3504"
+    affiliation: "Swedish Meteorological and Hydrological Institute (SMHI)"
+repository-code: "https://github.com/anderstorstensson/tangesund-chain-length-study"
+license: MIT
+keywords:
+  - diatom chain length
+  - Imaging FlowCytobot
+  - functional traits
+  - halocline
+  - stratification
+  - size spectra
+  - Skagerrak
+preferred-citation:
+  type: unpublished
+  title: "Decline in diatom chain length and cell size with depth across a coastal halocline"
+  authors:
+    - family-names: Torstensson
+      given-names: Anders
+      orcid: "https://orcid.org/0000-0002-8283-656X"
+    - family-names: Brosnahan
+      given-names: Michael L.
+      orcid: "https://orcid.org/0000-0002-2620-7638"
+    - family-names: Cembella
+      given-names: Allan
+      orcid: "https://orcid.org/0000-0002-1297-2240"
+    - family-names: Karlson
+      given-names: Bengt
+      orcid: "https://orcid.org/0000-0002-7524-3504"
+  year: 2026
+  notes: "Manuscript submitted."

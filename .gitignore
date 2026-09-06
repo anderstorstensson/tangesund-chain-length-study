@@ -1,0 +1,37 @@
+# Input data, obtained separately (see "Data required" in the README)
+data/*
+# Bundled: the two manual validation sets, the Svea subset, the Tangesund sample list
+# and the functional-group map
+!data/chaetoceros_validation/
+!data/asterionellopsis_validation/
+!data/svea/
+!data/tangesund_samples.csv
+!data/functional_group_map.csv
+
+# Script outputs
+outputs/
+
+# Large data files anywhere in the tree
+*.txt.gz
+*.pt
+*.gpkg
+*.rds
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Rscript default graphics device output
+Rplots.pdf

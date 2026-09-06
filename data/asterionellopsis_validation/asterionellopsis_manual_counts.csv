@@ -1,0 +1,321 @@
+anon_id,sample,roi_number,depth,date,class_name,feret_um,feret_bin,detector_count,score,rank_in_day,manual_count,flags
+ag_0001,D20161015T184540_IFCB110,1197,3,2016-10-15,Asterionellopsis_glacialis,6.63,<=18,1,0.93,1,0,not Asterionellopsis glacialis
+ag_0002,D20160919T151734_IFCB110,495,3,2016-09-19,Asterionellopsis_glacialis,16.91,<=18,1,0.99,1,1,""
+ag_0003,D20160929T044124_IFCB110,63,16,2016-09-29,Asterionellopsis_glacialis,14.43,<=18,3,1,1,2,""
+ag_0004,D20160821T141101_IFCB110,302,3,2016-08-21,Asterionellopsis_glacialis,11.96,<=18,1,0.982,1,1,""
+ag_0005,D20161008T065350_IFCB110,747,3,2016-10-08,Asterionellopsis_glacialis,15.9,<=18,2,0.646,1,1,""
+ag_0006,D20160907T020236_IFCB110,843,16,2016-09-07,Asterionellopsis_glacialis,32.44,18-34,9,0.999,1,7,""
+ag_0007,D20161009T021337_IFCB110,58,16,2016-10-09,Asterionellopsis_glacialis,25.76,18-34,5,0.686,1,1,""
+ag_0008,D20160822T020132_IFCB110,83,3,2016-08-22,Asterionellopsis_glacialis,98.54,>98,12,1,1,10,""
+ag_0009,D20160928T131341_IFCB110,630,3,2016-09-28,Asterionellopsis_glacialis,58.66,34-98,11,0.792,2,2,""
+ag_0010,D20161011T010923_IFCB110,484,3,2016-10-11,Asterionellopsis_glacialis,16.14,<=18,3,0.718,1,0,not Asterionellopsis glacialis
+ag_0011,D20160824T035038_IFCB110,517,16,2016-08-24,Asterionellopsis_glacialis,8.88,<=18,1,0.683,1,1,""
+ag_0012,D20160909T180435_IFCB110,324,3,2016-09-09,Asterionellopsis_glacialis,18.61,18-34,3,0.991,2,2,""
+ag_0013,D20160912T115130_IFCB110,412,16,2016-09-12,Asterionellopsis_glacialis,21.92,18-34,5,1,1,7,""
+ag_0014,D20161012T095253_IFCB110,226,16,2016-10-12,Asterionellopsis_glacialis,73.68,34-98,7,1,1,10,""
+ag_0015,D20160907T210031_IFCB110,366,3,2016-09-07,Asterionellopsis_glacialis,151.89,>98,22,1,1,20,""
+ag_0016,D20160930T172814_IFCB110,281,16,2016-09-30,Asterionellopsis_glacialis,45.37,34-98,9,1,2,10,""
+ag_0017,D20160919T134112_IFCB110,588,3,2016-09-19,Asterionellopsis_glacialis,199.46,>98,25,1,3,24,""
+ag_0018,D20160908T181716_IFCB110,415,3,2016-09-08,Asterionellopsis_glacialis,136.31,>98,14,1,1,14,""
+ag_0019,D20160827T135117_IFCB110,41,16,2016-08-27,Asterionellopsis_glacialis,29.28,18-34,1,0.977,1,0,not Asterionellopsis glacialis
+ag_0020,D20160902T052221_IFCB110,60,16,2016-09-02,Asterionellopsis_glacialis,14.8,<=18,2,1,1,1,""
+ag_0021,D20160908T091324_IFCB110,304,16,2016-09-08,Asterionellopsis_glacialis,55.09,34-98,9,1,1,11,""
+ag_0022,D20161008T021011_IFCB110,866,3,2016-10-08,Asterionellopsis_glacialis,41.11,34-98,4,0.587,1,0,not Asterionellopsis glacialis
+ag_0023,D20160926T124424_IFCB110,664,3,2016-09-26,Asterionellopsis_glacialis,18.47,18-34,1,0.974,1,0,not Asterionellopsis glacialis
+ag_0024,D20160909T224814_IFCB110,86,3,2016-09-09,Asterionellopsis_glacialis,180.72,>98,20,1,2,18,""
+ag_0025,D20160910T072440_IFCB110,553,3,2016-09-10,Asterionellopsis_glacialis,32.51,18-34,7,0.999,1,6,""
+ag_0026,D20160910T050250_IFCB110,1114,3,2016-09-10,Asterionellopsis_glacialis,90.42,34-98,13,1,2,12,""
+ag_0027,D20160906T234047_IFCB110,611,16,2016-09-06,Asterionellopsis_glacialis,118.31,>98,14,1,3,15,""
+ag_0028,D20160912T064413_IFCB110,53,3,2016-09-12,Asterionellopsis_glacialis,156.74,>98,24,1,2,24,""
+ag_0029,D20161004T055731_IFCB110,246,3,2016-10-04,Asterionellopsis_glacialis,17.63,<=18,3,0.529,2,0,not Asterionellopsis glacialis
+ag_0030,D20161006T173150_IFCB110,389,3,2016-10-06,Asterionellopsis_glacialis,66.98,34-98,16,0.999,1,4,""
+ag_0031,D20160906T121346_IFCB110,67,16,2016-09-06,Asterionellopsis_glacialis,121.75,>98,13,1,2,13,""
+ag_0032,D20160930T192625_IFCB110,246,3,2016-09-30,Asterionellopsis_glacialis,44.18,34-98,2,1,1,2,""
+ag_0033,D20160910T185012_IFCB110,742,16,2016-09-10,Asterionellopsis_glacialis,63.91,34-98,6,1,1,5,""
+ag_0034,D20160831T111018_IFCB110,146,16,2016-08-31,Asterionellopsis_glacialis,11.24,<=18,1,0.982,1,1,""
+ag_0035,D20161010T083502_IFCB110,333,3,2016-10-10,Asterionellopsis_glacialis,14.87,<=18,6,0.976,1,0,not Asterionellopsis glacialis
+ag_0036,D20160904T050516_IFCB110,136,16,2016-09-04,Asterionellopsis_glacialis,33.1,18-34,15,1,1,12,""
+ag_0037,D20160905T213911_IFCB110,242,16,2016-09-05,Asterionellopsis_glacialis,10.06,<=18,1,1,1,1,""
+ag_0038,D20160827T161306_IFCB110,33,16,2016-08-27,Asterionellopsis_glacialis,9.91,<=18,1,0.859,1,1,""
+ag_0039,D20160910T162822_IFCB110,255,16,2016-09-10,Asterionellopsis_glacialis,124.78,>98,32,1,1,31,""
+ag_0040,D20160912T000053_IFCB110,335,16,2016-09-12,Asterionellopsis_glacialis,99.46,>98,31,1,3,27,""
+ag_0041,D20160910T162822_IFCB110,1421,16,2016-09-10,Asterionellopsis_glacialis,12.94,<=18,4,1,1,4,""
+ag_0042,D20161008T162108_IFCB110,345,3,2016-10-08,Asterionellopsis_glacialis,24.92,18-34,1,0.909,2,0,not Asterionellopsis glacialis
+ag_0043,D20161004T225225_IFCB110,747,3,2016-10-04,Asterionellopsis_glacialis,8.07,<=18,3,1,1,2,""
+ag_0044,D20160927T003338_IFCB110,1006,16,2016-09-27,Asterionellopsis_glacialis,8.56,<=18,2,1,1,2,""
+ag_0045,D20160908T161857_IFCB110,524,16,2016-09-08,Asterionellopsis_glacialis,181.13,>98,28,1,3,25,""
+ag_0046,D20161006T031603_IFCB110,1106,3,2016-10-06,Asterionellopsis_glacialis,17.97,<=18,2,0.999,1,1,""
+ag_0047,D20160903T094538_IFCB110,48,16,2016-09-03,Asterionellopsis_glacialis,100.17,>98,17,1,1,19,""
+ag_0048,D20160911T061708_IFCB110,344,3,2016-09-11,Asterionellopsis_glacialis,76.58,34-98,7,1,1,8,""
+ag_0049,D20161016T111830_IFCB110,454,3,2016-10-16,Asterionellopsis_glacialis,13.05,<=18,1,0.65,2,0,not Asterionellopsis glacialis
+ag_0050,D20160912T205510_IFCB110,212,3,2016-09-12,Asterionellopsis_glacialis,16.04,<=18,1,1,1,1,""
+ag_0051,D20160930T172814_IFCB110,502,16,2016-09-30,Asterionellopsis_glacialis,43.06,34-98,9,0.958,1,1,""
+ag_0052,D20161014T155622_IFCB110,1202,3,2016-10-14,Asterionellopsis_glacialis,20.07,18-34,3,0.69,1,0,not Asterionellopsis glacialis
+ag_0053,D20160926T181526_IFCB110,330,3,2016-09-26,Asterionellopsis_glacialis,19.94,18-34,3,1,2,2,""
+ag_0054,D20161009T085532_IFCB110,1110,3,2016-10-09,Asterionellopsis_glacialis,13.36,<=18,2,0.898,1,0,not Asterionellopsis glacialis
+ag_0055,D20161006T104515_IFCB110,16,16,2016-10-06,Asterionellopsis_glacialis,13.84,<=18,1,0.788,1,1,""
+ag_0056,D20160906T044440_IFCB110,132,16,2016-09-06,Asterionellopsis_glacialis,28.85,18-34,2,0.576,1,0,not Asterionellopsis glacialis
+ag_0057,D20161016T021448_IFCB110,228,16,2016-10-16,Asterionellopsis_glacialis,46.37,34-98,7,1,1,8,""
+ag_0058,D20160905T220249_IFCB110,395,16,2016-09-05,Asterionellopsis_glacialis,32.15,18-34,5,1,1,5,""
+ag_0059,D20161005T081954_IFCB110,1348,3,2016-10-05,Asterionellopsis_glacialis,13.14,<=18,1,1,1,1,""
+ag_0060,D20161014T091323_IFCB110,51,16,2016-10-14,Asterionellopsis_glacialis,13.72,<=18,4,0.86,1,1,""
+ag_0061,D20160912T141320_IFCB110,78,16,2016-09-12,Asterionellopsis_glacialis,67.8,34-98,13,1,1,15,""
+ag_0062,D20160826T163313_IFCB110,139,16,2016-08-26,Asterionellopsis_glacialis,15.24,<=18,1,0.919,1,0,not Asterionellopsis glacialis
+ag_0063,D20160911T160807_IFCB110,408,16,2016-09-11,Asterionellopsis_glacialis,165.46,>98,17,1,3,16,""
+ag_0064,D20161001T025543_IFCB110,40,16,2016-10-01,Asterionellopsis_glacialis,13.74,<=18,4,0.998,1,3,""
+ag_0065,D20160819T081002_IFCB110,51,16,2016-08-19,Asterionellopsis_glacialis,30.72,18-34,5,0.937,1,0,not Asterionellopsis glacialis
+ag_0066,D20160823T155330_IFCB110,279,3,2016-08-23,Asterionellopsis_glacialis,52.74,34-98,3,0.902,1,0,not Asterionellopsis glacialis
+ag_0067,D20161009T133916_IFCB110,738,3,2016-10-09,Asterionellopsis_glacialis,17.03,<=18,4,0.785,2,0,not Asterionellopsis glacialis
+ag_0068,D20160926T124424_IFCB110,647,3,2016-09-26,Asterionellopsis_glacialis,14.98,<=18,1,1,1,1,""
+ag_0069,D20160813T022953_IFCB110,176,3,2016-08-13,Asterionellopsis_glacialis,43.18,34-98,8,0.747,1,0,not Asterionellopsis glacialis
+ag_0070,D20160912T134941_IFCB110,136,3,2016-09-12,Asterionellopsis_glacialis,38.74,34-98,4,0.828,1,0,not Asterionellopsis glacialis
+ag_0071,D20160905T213911_IFCB110,83,16,2016-09-05,Asterionellopsis_glacialis,40.37,34-98,7,1,1,7,""
+ag_0072,D20160910T162822_IFCB110,759,16,2016-09-10,Asterionellopsis_glacialis,20.58,18-34,1,1,1,1,""
+ag_0073,D20160907T022615_IFCB110,468,16,2016-09-07,Asterionellopsis_glacialis,286.07,>98,30,1,3,32,""
+ag_0074,D20160930T221203_IFCB110,314,16,2016-09-30,Asterionellopsis_glacialis,26.08,18-34,4,0.998,1,2,""
+ag_0075,D20161011T010923_IFCB110,459,3,2016-10-11,Asterionellopsis_glacialis,121.44,>98,28,1,2,28,""
+ag_0076,D20160913T012526_IFCB110,57,3,2016-09-13,Asterionellopsis_glacialis,31.52,18-34,3,0.742,1,0,not Asterionellopsis glacialis
+ag_0077,D20160914T151729_IFCB110,579,3,2016-09-14,Asterionellopsis_glacialis,38.38,34-98,7,0.547,1,0,not Asterionellopsis glacialis
+ag_0078,D20160908T091324_IFCB110,552,16,2016-09-08,Asterionellopsis_glacialis,14.45,<=18,1,0.879,1,1,""
+ag_0079,D20160914T151729_IFCB110,862,3,2016-09-14,Asterionellopsis_glacialis,16.44,<=18,1,1,1,1,""
+ag_0080,D20161007T071404_IFCB110,878,3,2016-10-07,Asterionellopsis_glacialis,28.18,18-34,6,0.897,1,0,not Asterionellopsis glacialis
+ag_0081,D20160907T212410_IFCB110,258,16,2016-09-07,Asterionellopsis_glacialis,135.77,>98,16,1,1,15,""
+ag_0082,D20160810T122316_IFCB110,111,3,2016-08-10,Asterionellopsis_glacialis,102.04,>98,14,0.776,1,6,""
+ag_0083,D20161001T135649_IFCB110,701,3,2016-10-01,Asterionellopsis_glacialis,32.26,18-34,2,0.8,1,0,not Asterionellopsis glacialis
+ag_0084,D20160908T084946_IFCB110,197,3,2016-09-08,Asterionellopsis_glacialis,224.03,>98,32,1,3,31,""
+ag_0085,D20160928T133825_IFCB110,358,3,2016-09-28,Asterionellopsis_glacialis,27.94,18-34,2,1,1,2,""
+ag_0086,D20160919T160511_IFCB110,155,16,2016-09-19,Asterionellopsis_glacialis,11.79,<=18,1,0.999,1,1,""
+ag_0087,D20160919T134112_IFCB110,341,3,2016-09-19,Asterionellopsis_glacialis,175.55,>98,22,0.962,2,15,""
+ag_0088,D20161011T143303_IFCB110,847,3,2016-10-11,Asterionellopsis_glacialis,119.29,>98,15,1,1,15,""
+ag_0089,D20161008T135919_IFCB110,688,3,2016-10-08,Asterionellopsis_glacialis,25.88,18-34,3,0.878,1,0,not Asterionellopsis glacialis
+ag_0090,D20161003T132422_IFCB110,1113,3,2016-10-03,Asterionellopsis_glacialis,43.66,34-98,5,0.998,1,2,""
+ag_0091,D20160914T202448_IFCB110,705,16,2016-09-14,Asterionellopsis_glacialis,125.46,>98,22,1,3,18,""
+ag_0092,D20160910T050250_IFCB110,81,3,2016-09-10,Asterionellopsis_glacialis,179.81,>98,19,1,2,18,""
+ag_0093,D20161011T145641_IFCB110,18,16,2016-10-11,Asterionellopsis_glacialis,13.61,<=18,1,0.999,1,1,""
+ag_0094,D20160911T035519_IFCB110,336,3,2016-09-11,Asterionellopsis_glacialis,14.84,<=18,3,1,1,1,""
+ag_0095,D20160831T203859_IFCB110,341,16,2016-08-31,Asterionellopsis_glacialis,20.14,18-34,1,0.778,1,0,not Asterionellopsis glacialis
+ag_0096,D20160928T171544_IFCB110,85,16,2016-09-28,Asterionellopsis_glacialis,20.05,18-34,3,0.975,1,2,""
+ag_0097,D20160903T072349_IFCB110,75,16,2016-09-03,Asterionellopsis_glacialis,37.99,34-98,7,1,1,6,""
+ag_0098,D20161016T111830_IFCB110,425,3,2016-10-16,Asterionellopsis_glacialis,24.08,18-34,5,0.998,1,2,""
+ag_0099,D20160902T151441_IFCB110,34,16,2016-09-02,Asterionellopsis_glacialis,48.27,34-98,21,1,1,22,""
+ag_0100,D20161010T162752_IFCB110,44,16,2016-10-10,Asterionellopsis_glacialis,33.24,18-34,6,0.849,1,0,not Asterionellopsis glacialis
+ag_0101,D20161001T071549_IFCB110,1916,3,2016-10-01,Asterionellopsis_glacialis,14.7,<=18,3,0.999,1,0,not Asterionellopsis glacialis
+ag_0102,D20160907T212410_IFCB110,649,16,2016-09-07,Asterionellopsis_glacialis,158.29,>98,25,1,2,28,""
+ag_0103,D20160910T185012_IFCB110,599,16,2016-09-10,Asterionellopsis_glacialis,122.95,>98,16,1,2,17,""
+ag_0104,D20161005T084332_IFCB110,70,16,2016-10-05,Asterionellopsis_glacialis,12.76,<=18,1,0.692,1,1,""
+ag_0105,D20161015T190918_IFCB110,268,16,2016-10-15,Asterionellopsis_glacialis,14.5,<=18,1,0.941,1,0,not Asterionellopsis glacialis
+ag_0106,D20160907T210031_IFCB110,506,3,2016-09-07,Asterionellopsis_glacialis,245.09,>98,33,1,2,32,""
+ag_0107,D20160907T210031_IFCB110,695,3,2016-09-07,Asterionellopsis_glacialis,16.23,<=18,5,1,1,2,""
+ag_0108,D20161002T171725_IFCB110,200,16,2016-10-02,Asterionellopsis_glacialis,121.67,>98,17,0.596,1,0,cells not resolvable
+ag_0109,D20160926T203721_IFCB110,674,3,2016-09-26,Asterionellopsis_glacialis,7.65,<=18,1,0.576,2,1,""
+ag_0110,D20160909T231153_IFCB110,124,16,2016-09-09,Asterionellopsis_glacialis,106.79,>98,20,1,1,21,""
+ag_0111,D20160928T143010_IFCB110,335,3,2016-09-28,Asterionellopsis_glacialis,223.1,>98,24,1,2,25,""
+ag_0112,D20160909T205003_IFCB110,349,16,2016-09-09,Asterionellopsis_glacialis,174.37,>98,15,1,2,15,""
+ag_0113,D20161017T001959_IFCB110,166,3,2016-10-17,Asterionellopsis_glacialis,258.17,>98,51,1,2,42,""
+ag_0114,D20161002T193915_IFCB110,55,16,2016-10-02,Asterionellopsis_glacialis,22.52,18-34,5,0.85,1,0,not Asterionellopsis glacialis
+ag_0115,D20161008T210451_IFCB110,195,16,2016-10-08,Asterionellopsis_glacialis,13.4,<=18,1,0.988,1,1,""
+ag_0116,D20161003T035540_IFCB110,424,3,2016-10-03,Asterionellopsis_glacialis,24.99,18-34,3,1,2,2,""
+ag_0117,D20160929T101218_IFCB110,37,16,2016-09-29,Asterionellopsis_glacialis,103.58,>98,9,1,1,7,""
+ag_0118,D20161009T133916_IFCB110,358,3,2016-10-09,Asterionellopsis_glacialis,116.46,>98,10,1,2,10,""
+ag_0119,D20160927T001000_IFCB110,735,3,2016-09-27,Asterionellopsis_glacialis,27.95,18-34,4,0.554,2,0,not Asterionellopsis glacialis
+ag_0120,D20161011T220211_IFCB110,312,16,2016-10-11,Asterionellopsis_glacialis,36.89,34-98,5,1,2,4,""
+ag_0121,D20161009T160106_IFCB110,284,3,2016-10-09,Asterionellopsis_glacialis,58.14,34-98,6,1,1,4,""
+ag_0122,D20160913T181250_IFCB110,824,16,2016-09-13,Asterionellopsis_glacialis,115.72,>98,12,1,3,17,""
+ag_0123,D20160911T160807_IFCB110,769,16,2016-09-11,Asterionellopsis_glacialis,14.02,<=18,1,1,1,1,""
+ag_0124,D20160914T151729_IFCB110,190,3,2016-09-14,Asterionellopsis_glacialis,73.63,34-98,5,1,2,4,""
+ag_0125,D20160928T191355_IFCB110,341,3,2016-09-28,Asterionellopsis_glacialis,62,34-98,9,1,1,11,""
+ag_0126,D20160907T210031_IFCB110,819,3,2016-09-07,Asterionellopsis_glacialis,138.44,>98,16,1,3,16,""
+ag_0127,D20161007T170506_IFCB110,136,16,2016-10-07,Asterionellopsis_glacialis,13.62,<=18,1,1,1,1,""
+ag_0128,D20161010T012934_IFCB110,470,3,2016-10-10,Asterionellopsis_glacialis,81.06,34-98,19,1,1,16,""
+ag_0129,D20160910T162822_IFCB110,2,16,2016-09-10,Asterionellopsis_glacialis,121.28,>98,16,1,3,16,""
+ag_0130,D20160928T215923_IFCB110,41,16,2016-09-28,Asterionellopsis_glacialis,13.48,<=18,1,0.558,1,0,not Asterionellopsis glacialis
+ag_0131,D20161002T062315_IFCB110,1511,3,2016-10-02,Asterionellopsis_glacialis,34.86,34-98,7,0.671,1,0,not Asterionellopsis glacialis
+ag_0132,D20160910T160443_IFCB110,465,3,2016-09-10,Asterionellopsis_glacialis,68,34-98,4,1,1,4,""
+ag_0133,D20161004T134839_IFCB110,82,16,2016-10-04,Asterionellopsis_glacialis,16.08,<=18,1,0.992,1,1,""
+ag_0134,D20160909T202624_IFCB110,717,3,2016-09-09,Asterionellopsis_glacialis,16.7,<=18,1,1,1,1,""
+ag_0135,D20161012T130159_IFCB110,794,3,2016-10-12,Asterionellopsis_glacialis,18.17,18-34,3,0.982,1,0,not Asterionellopsis glacialis
+ag_0136,D20160818T195623_IFCB110,24,16,2016-08-18,Asterionellopsis_glacialis,39.88,34-98,10,1,1,14,""
+ag_0137,D20160811T130235_IFCB110,319,3,2016-08-11,Asterionellopsis_glacialis,13.31,<=18,1,0.86,1,0,not Asterionellopsis glacialis
+ag_0138,D20160914T200110_IFCB110,419,3,2016-09-14,Asterionellopsis_glacialis,27.06,18-34,3,1,1,2,""
+ag_0139,D20161015T025842_IFCB110,875,3,2016-10-15,Asterionellopsis_glacialis,21.59,18-34,3,0.784,1,0,not Asterionellopsis glacialis
+ag_0140,D20160911T035519_IFCB110,138,3,2016-09-11,Asterionellopsis_glacialis,165.51,>98,10,1,2,12,""
+ag_0141,D20161001T135649_IFCB110,102,3,2016-10-01,Asterionellopsis_glacialis,24.17,18-34,2,0.954,2,0,not Asterionellopsis glacialis
+ag_0142,D20160904T021948_IFCB110,50,16,2016-09-04,Asterionellopsis_glacialis,94.96,34-98,11,1,1,14,""
+ag_0143,D20161006T131149_IFCB110,218,16,2016-10-06,Asterionellopsis_glacialis,22.89,18-34,2,0.996,1,2,""
+ag_0144,D20160914T151729_IFCB110,12,3,2016-09-14,Asterionellopsis_glacialis,246.36,>98,36,1,2,23,""
+ag_0145,D20160927T153210_IFCB110,410,3,2016-09-27,Asterionellopsis_glacialis,17.76,<=18,2,0.991,2,2,""
+ag_0146,D20161013T164000_IFCB110,98,16,2016-10-13,Asterionellopsis_glacialis,22.57,18-34,2,0.865,1,2,""
+ag_0147,D20160902T151441_IFCB110,31,16,2016-09-02,Asterionellopsis_glacialis,18.54,18-34,2,0.608,1,0,not Asterionellopsis glacialis
+ag_0148,D20161008T175541_IFCB110,199,16,2016-10-08,Asterionellopsis_glacialis,18.27,18-34,2,0.963,1,2,""
+ag_0149,D20160928T171544_IFCB110,365,16,2016-09-28,Asterionellopsis_glacialis,86.71,34-98,7,0.993,1,6,""
+ag_0150,D20160929T035407_IFCB110,277,16,2016-09-29,Asterionellopsis_glacialis,98.89,>98,20,1,2,19,""
+ag_0151,D20160910T182634_IFCB110,287,3,2016-09-10,Asterionellopsis_glacialis,381.11,>98,30,1,1,32,""
+ag_0152,D20161009T204444_IFCB110,337,3,2016-10-09,Asterionellopsis_glacialis,18.05,18-34,3,0.594,1,0,not Asterionellopsis glacialis
+ag_0153,D20161016T134020_IFCB110,462,3,2016-10-16,Asterionellopsis_glacialis,13.27,<=18,4,0.586,1,0,not Asterionellopsis glacialis
+ag_0154,D20160930T164004_IFCB110,88,3,2016-09-30,Asterionellopsis_glacialis,6.4,<=18,1,0.758,1,0,not Asterionellopsis glacialis
+ag_0155,D20160913T110716_IFCB110,501,16,2016-09-13,Asterionellopsis_glacialis,21.31,18-34,2,1,1,2,""
+ag_0156,D20160913T060915_IFCB110,348,3,2016-09-13,Asterionellopsis_glacialis,289.32,>98,57,1,1,55,""
+ag_0157,D20161005T181215_IFCB110,277,16,2016-10-05,Asterionellopsis_glacialis,18.95,18-34,3,1,1,2,""
+ag_0158,D20161001T142045_IFCB110,848,3,2016-10-01,Asterionellopsis_glacialis,58.84,34-98,7,1,2,8,""
+ag_0159,D20160811T143708_IFCB110,31,3,2016-08-11,Asterionellopsis_glacialis,7.66,<=18,1,0.733,2,0,not Asterionellopsis glacialis
+ag_0160,D20161011T010923_IFCB110,69,3,2016-10-11,Asterionellopsis_glacialis,39.97,34-98,5,1,1,4,""
+ag_0161,D20160927T124641_IFCB110,266,3,2016-09-27,Asterionellopsis_glacialis,21.67,18-34,4,1,1,2,""
+ag_0162,D20161004T225225_IFCB110,268,3,2016-10-04,Asterionellopsis_glacialis,44.07,34-98,2,0.822,1,0,not Asterionellopsis glacialis
+ag_0163,D20160913T152717_IFCB110,27,3,2016-09-13,Asterionellopsis_glacialis,92.31,34-98,23,1,1,18,""
+ag_0164,D20160926T221148_IFCB110,246,16,2016-09-26,Asterionellopsis_glacialis,10.27,<=18,1,0.84,1,1,""
+ag_0165,D20161002T113039_IFCB110,384,16,2016-10-02,Asterionellopsis_glacialis,35.75,34-98,5,1,1,5,""
+ag_0166,D20161003T134800_IFCB110,258,16,2016-10-03,Asterionellopsis_glacialis,25.84,18-34,3,1,1,2,""
+ag_0167,D20160914T154108_IFCB110,364,16,2016-09-14,Asterionellopsis_glacialis,102.56,>98,9,1,1,10,""
+ag_0168,D20160919T160511_IFCB110,84,16,2016-09-19,Asterionellopsis_glacialis,18.49,18-34,3,0.552,1,0,not Asterionellopsis glacialis
+ag_0169,D20160912T112752_IFCB110,774,3,2016-09-12,Asterionellopsis_glacialis,18.08,18-34,1,0.998,1,1,""
+ag_0170,D20160906T115008_IFCB110,251,16,2016-09-06,Asterionellopsis_glacialis,11.07,<=18,2,1,1,1,""
+ag_0171,D20160927T175405_IFCB110,2,3,2016-09-27,Asterionellopsis_glacialis,15.34,<=18,1,0.798,1,0,not Asterionellopsis glacialis
+ag_0172,D20160910T134253_IFCB110,1116,3,2016-09-10,Asterionellopsis_glacialis,137.61,>98,19,1,3,19,""
+ag_0173,D20161003T225147_IFCB110,212,3,2016-10-03,Asterionellopsis_glacialis,22.07,18-34,3,1,1,0,not Asterionellopsis glacialis
+ag_0174,D20160909T132058_IFCB110,1052,3,2016-09-09,Asterionellopsis_glacialis,26.03,18-34,1,0.958,1,1,""
+ag_0175,D20160818T224245_IFCB110,83,16,2016-08-18,Asterionellopsis_glacialis,32.87,18-34,1,0.577,1,0,not Asterionellopsis glacialis
+ag_0176,D20160908T133327_IFCB110,90,3,2016-09-08,Asterionellopsis_glacialis,14.19,<=18,1,1,2,1,""
+ag_0177,D20161016T184902_IFCB110,542,3,2016-10-16,Asterionellopsis_glacialis,178.38,>98,27,1,1,26,""
+ag_0178,D20160828T102140_IFCB110,65,16,2016-08-28,Asterionellopsis_glacialis,15.84,<=18,4,1,1,4,""
+ag_0179,D20160820T004411_IFCB110,127,16,2016-08-20,Asterionellopsis_glacialis,31.05,18-34,1,0.953,1,0,not Asterionellopsis glacialis
+ag_0180,D20161013T234552_IFCB110,269,16,2016-10-13,Asterionellopsis_glacialis,38.76,34-98,3,0.998,1,3,""
+ag_0181,D20161002T113039_IFCB110,189,16,2016-10-02,Asterionellopsis_glacialis,15.42,<=18,2,0.8,1,2,""
+ag_0182,D20160927T215157_IFCB110,820,16,2016-09-27,Asterionellopsis_glacialis,26.65,18-34,5,1,1,4,""
+ag_0183,D20161011T220211_IFCB110,85,16,2016-10-11,Asterionellopsis_glacialis,24.51,18-34,5,1,1,4,""
+ag_0184,D20161001T093739_IFCB110,1728,3,2016-10-01,Asterionellopsis_glacialis,10.86,<=18,1,1,2,1,""
+ag_0185,D20160824T105606_IFCB110,19,16,2016-08-24,Asterionellopsis_glacialis,31.46,18-34,1,0.821,1,0,not Asterionellopsis glacialis
+ag_0186,D20161006T131149_IFCB110,127,16,2016-10-06,Asterionellopsis_glacialis,46.69,34-98,5,1,1,5,""
+ag_0187,D20160910T050250_IFCB110,208,3,2016-09-10,Asterionellopsis_glacialis,6.97,<=18,2,0.987,1,1,""
+ag_0188,D20160911T090237_IFCB110,598,16,2016-09-11,Asterionellopsis_glacialis,167.62,>98,31,1,1,30,""
+ag_0189,D20161014T184207_IFCB110,213,16,2016-10-14,Asterionellopsis_glacialis,25.84,18-34,4,0.543,1,0,not Asterionellopsis glacialis
+ag_0190,D20161010T182603_IFCB110,172,16,2016-10-10,Asterionellopsis_glacialis,35.2,34-98,4,1,1,4,""
+ag_0191,D20160912T070751_IFCB110,13,16,2016-09-12,Asterionellopsis_glacialis,196.74,>98,28,1,1,29,""
+ag_0192,D20160928T131341_IFCB110,530,3,2016-09-28,Asterionellopsis_glacialis,170.02,>98,15,1,1,15,""
+ag_0193,D20161003T064107_IFCB110,238,16,2016-10-03,Asterionellopsis_glacialis,13.82,<=18,3,1,1,2,""
+ag_0194,D20161001T170613_IFCB110,222,16,2016-10-01,Asterionellopsis_glacialis,31.41,18-34,5,1,1,5,""
+ag_0195,D20160908T155518_IFCB110,347,3,2016-09-08,Asterionellopsis_glacialis,30.03,18-34,1,1,1,1,""
+ag_0196,D20160824T224637_IFCB110,206,16,2016-08-24,Asterionellopsis_glacialis,53.38,34-98,2,0.753,1,0,cells not resolvable
+ag_0197,D20161012T092915_IFCB110,44,16,2016-10-12,Asterionellopsis_glacialis,18.24,18-34,2,0.538,1,0,not Asterionellopsis glacialis
+ag_0198,D20161011T165453_IFCB110,253,3,2016-10-11,Asterionellopsis_glacialis,18.04,18-34,4,0.651,1,0,not Asterionellopsis glacialis
+ag_0199,D20160906T214235_IFCB110,21,16,2016-09-06,Asterionellopsis_glacialis,140.31,>98,13,1,1,13,""
+ag_0200,D20160926T221148_IFCB110,313,16,2016-09-26,Asterionellopsis_glacialis,39.07,34-98,9,1,1,7,""
+ag_0201,D20161005T174837_IFCB110,97,3,2016-10-05,Asterionellopsis_glacialis,135.21,>98,22,1,2,24,""
+ag_0202,D20160819T081002_IFCB110,32,16,2016-08-19,Asterionellopsis_glacialis,42.26,34-98,5,0.991,1,0,cells not resolvable
+ag_0203,D20161013T161622_IFCB110,312,3,2016-10-13,Asterionellopsis_glacialis,83.69,34-98,12,1,1,10,""
+ag_0204,D20160914T202448_IFCB110,619,16,2016-09-14,Asterionellopsis_glacialis,16.25,<=18,3,1,1,4,""
+ag_0205,D20160911T180618_IFCB110,10,3,2016-09-11,Asterionellopsis_glacialis,188.74,>98,29,1,1,30,""
+ag_0206,D20160909T202624_IFCB110,247,3,2016-09-09,Asterionellopsis_glacialis,390.61,>98,39,1,1,38,""
+ag_0207,D20160909T231153_IFCB110,603,16,2016-09-09,Asterionellopsis_glacialis,29.42,18-34,3,1,1,3,""
+ag_0208,D20161007T115748_IFCB110,1315,3,2016-10-07,Asterionellopsis_glacialis,40.08,34-98,7,0.983,1,0,not Asterionellopsis glacialis
+ag_0209,D20161012T130159_IFCB110,502,3,2016-10-12,Asterionellopsis_glacialis,35.28,34-98,4,0.912,1,0,not Asterionellopsis glacialis
+ag_0210,D20161014T135703_IFCB110,902,16,2016-10-14,Asterionellopsis_glacialis,268.92,>98,35,1,1,36,""
+ag_0211,D20161010T041502_IFCB110,14,16,2016-10-10,Asterionellopsis_glacialis,13.44,<=18,2,0.95,1,1,""
+ag_0212,D20160909T205003_IFCB110,564,16,2016-09-09,Asterionellopsis_glacialis,104.56,>98,26,1,3,27,""
+ag_0213,D20161003T205335_IFCB110,166,16,2016-10-03,Asterionellopsis_glacialis,63.59,34-98,12,1,1,12,""
+ag_0214,D20160812T055910_IFCB110,76,3,2016-08-12,Asterionellopsis_glacialis,18.13,18-34,1,0.618,1,0,not Asterionellopsis glacialis
+ag_0215,D20160908T062751_IFCB110,509,3,2016-09-08,Asterionellopsis_glacialis,121.31,>98,47,1,2,46,""
+ag_0216,D20160912T092940_IFCB110,68,16,2016-09-12,Asterionellopsis_glacialis,12.7,<=18,1,1,1,2,""
+ag_0217,D20161011T081451_IFCB110,895,3,2016-10-11,Asterionellopsis_glacialis,17.63,<=18,4,0.966,2,0,cells not resolvable
+ag_0218,D20161010T012934_IFCB110,469,3,2016-10-10,Asterionellopsis_glacialis,207.58,>98,30,1,1,32,""
+ag_0219,D20160914T202448_IFCB110,371,16,2016-09-14,Asterionellopsis_glacialis,20.45,18-34,4,1,1,4,""
+ag_0220,D20161005T035953_IFCB110,101,16,2016-10-05,Asterionellopsis_glacialis,100.64,>98,13,1,1,14,""
+ag_0221,D20161017T013054_IFCB110,1049,3,2016-10-17,Asterionellopsis_glacialis,9.75,<=18,1,0.662,1,1,""
+ag_0222,D20160914T154108_IFCB110,101,16,2016-09-14,Asterionellopsis_glacialis,50.13,34-98,9,1,1,9,""
+ag_0223,D20161004T035915_IFCB110,125,16,2016-10-04,Asterionellopsis_glacialis,34.3,34-98,9,1,1,6,""
+ag_0224,D20160811T165858_IFCB110,62,16,2016-08-11,Asterionellopsis_glacialis,27.14,18-34,4,0.871,1,0,not Asterionellopsis glacialis
+ag_0225,D20160810T145009_IFCB110,155,3,2016-08-10,Asterionellopsis_glacialis,22.1,18-34,1,0.777,1,1,""
+ag_0226,D20160929T044124_IFCB110,305,16,2016-09-29,Asterionellopsis_glacialis,114.17,>98,22,1,3,21,""
+ag_0227,D20160909T231153_IFCB110,127,16,2016-09-09,Asterionellopsis_glacialis,11.28,<=18,1,0.967,1,1,""
+ag_0228,D20161005T132836_IFCB110,265,16,2016-10-05,Asterionellopsis_glacialis,35.55,34-98,5,0.999,1,3,""
+ag_0229,D20160811T225336_IFCB110,217,16,2016-08-11,Asterionellopsis_glacialis,43.36,34-98,9,0.682,1,0,not Asterionellopsis glacialis
+ag_0230,D20160908T113515_IFCB110,805,16,2016-09-08,Asterionellopsis_glacialis,23.28,18-34,1,1,1,1,""
+ag_0231,D20160913T063254_IFCB110,42,16,2016-09-13,Asterionellopsis_glacialis,38.71,34-98,5,1,1,4,""
+ag_0232,D20160911T182956_IFCB110,128,16,2016-09-11,Asterionellopsis_glacialis,22.32,18-34,1,1,1,2,""
+ag_0233,D20161005T152647_IFCB110,195,3,2016-10-05,Asterionellopsis_glacialis,27.81,18-34,2,0.58,1,0,not Asterionellopsis glacialis
+ag_0234,D20161005T152647_IFCB110,568,3,2016-10-05,Asterionellopsis_glacialis,79.92,34-98,6,1,1,7,""
+ag_0235,D20160911T110048_IFCB110,9,3,2016-09-11,Asterionellopsis_glacialis,24.64,18-34,3,0.896,1,0,not Asterionellopsis glacialis
+ag_0236,D20161009T111727_IFCB110,1070,3,2016-10-09,Asterionellopsis_glacialis,114.96,>98,14,1,1,12,""
+ag_0237,D20160912T134941_IFCB110,16,3,2016-09-12,Asterionellopsis_glacialis,266.87,>98,32,1,3,30,""
+ag_0238,D20160911T205146_IFCB110,865,16,2016-09-11,Asterionellopsis_glacialis,134.52,>98,23,1,2,22,""
+ag_0239,D20160929T103556_IFCB110,91,16,2016-09-29,Asterionellopsis_glacialis,43.43,34-98,7,0.937,1,2,""
+ag_0240,D20161007T093559_IFCB110,1930,3,2016-10-07,Asterionellopsis_glacialis,13.59,<=18,1,1,1,1,""
+ag_0241,D20160908T184055_IFCB110,253,16,2016-09-08,Asterionellopsis_glacialis,117.71,>98,14,1,2,13,""
+ag_0242,D20161017T013054_IFCB110,772,3,2016-10-17,Asterionellopsis_glacialis,91.68,34-98,11,1,1,10,""
+ag_0243,D20160919T154132_IFCB110,154,3,2016-09-19,Asterionellopsis_glacialis,128.37,>98,45,1,1,45,""
+ag_0244,D20160825T063834_IFCB110,244,16,2016-08-25,Asterionellopsis_glacialis,8.72,<=18,1,0.993,1,1,""
+ag_0245,D20161012T090537_IFCB110,121,16,2016-10-12,Asterionellopsis_glacialis,145.79,>98,42,1,2,43,""
+ag_0246,D20160823T071153_IFCB110,273,3,2016-08-23,Asterionellopsis_glacialis,16.14,<=18,1,0.839,1,1,""
+ag_0247,D20160812T170230_IFCB110,270,3,2016-08-12,Asterionellopsis_glacialis,40.11,34-98,4,0.591,1,0,not Asterionellopsis glacialis
+ag_0248,D20161010T182603_IFCB110,42,16,2016-10-10,Asterionellopsis_glacialis,125.85,>98,12,1,1,12,""
+ag_0249,D20160914T180258_IFCB110,128,16,2016-09-14,Asterionellopsis_glacialis,107.92,>98,21,1,2,19,""
+ag_0250,D20160907T212410_IFCB110,266,16,2016-09-07,Asterionellopsis_glacialis,87.39,34-98,18,1,1,14,""
+ag_0251,D20160908T042939_IFCB110,167,16,2016-09-08,Asterionellopsis_glacialis,140,>98,33,1,1,32,""
+ag_0252,D20160912T070751_IFCB110,430,16,2016-09-12,Asterionellopsis_glacialis,126.91,>98,41,1,2,32,""
+ag_0253,D20160907T161758_IFCB110,349,3,2016-09-07,Asterionellopsis_glacialis,70.46,34-98,12,1,1,13,""
+ag_0254,D20160919T134112_IFCB110,244,3,2016-09-19,Asterionellopsis_glacialis,66.9,34-98,8,1,1,7,""
+ag_0255,D20161015T120224_IFCB110,59,16,2016-10-15,Asterionellopsis_glacialis,28.67,18-34,3,0.94,1,0,not Asterionellopsis glacialis
+ag_0256,D20161001T051733_IFCB110,139,16,2016-10-01,Asterionellopsis_glacialis,35.2,34-98,6,0.999,1,4,""
+ag_0257,D20160912T064413_IFCB110,187,3,2016-09-12,Asterionellopsis_glacialis,137.2,>98,16,1,1,16,""
+ag_0258,D20161012T033441_IFCB110,312,16,2016-10-12,Asterionellopsis_glacialis,109.77,>98,21,1,1,21,""
+ag_0259,D20161007T170506_IFCB110,194,16,2016-10-07,Asterionellopsis_glacialis,21.36,18-34,5,1,1,2,""
+ag_0260,D20161012T084158_IFCB110,441,16,2016-10-12,Asterionellopsis_glacialis,11.3,<=18,1,1,1,1,""
+ag_0261,D20161002T013929_IFCB110,340,3,2016-10-02,Asterionellopsis_glacialis,22.57,18-34,5,1,1,4,""
+ag_0262,D20160913T041059_IFCB110,448,16,2016-09-13,Asterionellopsis_glacialis,100.35,>98,19,1,2,15,""
+ag_0263,D20160823T133016_IFCB110,637,3,2016-08-23,Asterionellopsis_glacialis,22.05,18-34,3,0.668,1,1,""
+ag_0264,D20160822T201004_IFCB110,112,3,2016-08-22,Asterionellopsis_glacialis,11.34,<=18,1,0.942,1,1,""
+ag_0265,D20161011T035451_IFCB110,9,16,2016-10-11,Asterionellopsis_glacialis,103.69,>98,31,1,1,31,""
+ag_0266,D20161014T162017_IFCB110,72,16,2016-10-14,Asterionellopsis_glacialis,36.89,34-98,2,0.999,1,0,not Asterionellopsis glacialis
+ag_0267,D20160928T191355_IFCB110,398,3,2016-09-28,Asterionellopsis_glacialis,135.48,>98,12,1,3,11,""
+ag_0268,D20161006T175528_IFCB110,245,16,2016-10-06,Asterionellopsis_glacialis,55.29,34-98,11,0.896,2,4,""
+ag_0269,D20161007T141938_IFCB110,543,3,2016-10-07,Asterionellopsis_glacialis,34.39,34-98,4,0.855,2,0,not Asterionellopsis glacialis
+ag_0270,D20160909T231153_IFCB110,82,16,2016-09-09,Asterionellopsis_glacialis,74.73,34-98,11,0.936,1,9,""
+ag_0271,D20160907T210031_IFCB110,802,3,2016-09-07,Asterionellopsis_glacialis,23.23,18-34,2,1,2,2,""
+ag_0272,D20160825T134413_IFCB110,192,16,2016-08-25,Asterionellopsis_glacialis,21.92,18-34,4,0.885,1,0,not Asterionellopsis glacialis
+ag_0273,D20161013T183823_IFCB110,842,3,2016-10-13,Asterionellopsis_glacialis,24.55,18-34,4,0.952,1,0,not Asterionellopsis glacialis
+ag_0274,D20161016T021448_IFCB110,605,16,2016-10-16,Asterionellopsis_glacialis,10.98,<=18,1,0.946,1,1,""
+ag_0275,D20160819T100813_IFCB110,308,3,2016-08-19,Asterionellopsis_glacialis,17.42,<=18,1,1,1,1,""
+ag_0276,D20161011T055302_IFCB110,799,3,2016-10-11,Asterionellopsis_glacialis,23.96,18-34,5,0.982,2,0,not Asterionellopsis glacialis
+ag_0277,D20161002T040120_IFCB110,332,3,2016-10-02,Asterionellopsis_glacialis,10.22,<=18,1,1,1,2,""
+ag_0278,D20161009T045905_IFCB110,147,16,2016-10-09,Asterionellopsis_glacialis,34.51,34-98,6,1,1,8,""
+ag_0279,D20160908T181716_IFCB110,28,3,2016-09-08,Asterionellopsis_glacialis,60.65,34-98,14,1,1,11,""
+ag_0280,D20160830T203538_IFCB110,76,16,2016-08-30,Asterionellopsis_glacialis,14.15,<=18,3,0.826,1,0,not Asterionellopsis glacialis
+ag_0281,D20160913T060915_IFCB110,331,3,2016-09-13,Asterionellopsis_glacialis,102.09,>98,15,1,2,12,""
+ag_0282,D20161009T001526_IFCB110,116,16,2016-10-09,Asterionellopsis_glacialis,13.59,<=18,2,0.768,1,1,""
+ag_0283,D20161007T144317_IFCB110,104,16,2016-10-07,Asterionellopsis_glacialis,36.66,34-98,3,1,1,3,""
+ag_0284,D20160903T100916_IFCB110,21,16,2016-09-03,Asterionellopsis_glacialis,15.27,<=18,1,0.612,1,0,not Asterionellopsis glacialis
+ag_0285,D20161010T131846_IFCB110,195,3,2016-10-10,Asterionellopsis_glacialis,22.1,18-34,4,0.998,1,2,""
+ag_0286,D20161016T041300_IFCB110,899,3,2016-10-16,Asterionellopsis_glacialis,34.49,34-98,2,0.986,1,0,not Asterionellopsis glacialis
+ag_0287,D20160913T041059_IFCB110,218,16,2016-09-13,Asterionellopsis_glacialis,11.15,<=18,2,0.999,1,2,""
+ag_0288,D20160907T210031_IFCB110,20,3,2016-09-07,Asterionellopsis_glacialis,20.33,18-34,1,1,1,1,""
+ag_0289,D20161008T023349_IFCB110,94,16,2016-10-08,Asterionellopsis_glacialis,37.95,34-98,16,1,1,16,""
+ag_0290,D20160904T050516_IFCB110,51,16,2016-09-04,Asterionellopsis_glacialis,100.97,>98,15,1,1,15,""
+ag_0291,D20160913T152717_IFCB110,228,3,2016-09-13,Asterionellopsis_glacialis,14.1,<=18,2,0.997,1,1,""
+ag_0292,D20161010T035123_IFCB110,401,3,2016-10-10,Asterionellopsis_glacialis,23.91,18-34,1,0.836,2,0,not Asterionellopsis glacialis
+ag_0293,D20161014T065133_IFCB110,666,16,2016-10-14,Asterionellopsis_glacialis,111.32,>98,15,1,2,17,""
+ag_0294,D20161017T001959_IFCB110,263,3,2016-10-17,Asterionellopsis_glacialis,433.05,>98,64,1,1,66,""
+ag_0295,D20160907T210031_IFCB110,98,3,2016-09-07,Asterionellopsis_glacialis,15.9,<=18,2,0.969,2,2,""
+ag_0296,D20160908T133327_IFCB110,1353,3,2016-09-08,Asterionellopsis_glacialis,16.25,<=18,1,0.999,1,1,""
+ag_0297,D20161013T164000_IFCB110,618,16,2016-10-13,Asterionellopsis_glacialis,16.46,<=18,3,0.969,1,2,""
+ag_0298,D20160919T154132_IFCB110,315,3,2016-09-19,Asterionellopsis_glacialis,23.26,18-34,5,0.979,1,0,not Asterionellopsis glacialis
+ag_0299,D20160811T132613_IFCB110,305,3,2016-08-11,Asterionellopsis_glacialis,93.29,34-98,15,1,1,13,""
+ag_0300,D20161015T232920_IFCB110,754,3,2016-10-15,Asterionellopsis_glacialis,87.13,34-98,12,1,1,11,""
+ag_0301,D20161011T145641_IFCB110,135,16,2016-10-11,Asterionellopsis_glacialis,41.88,34-98,4,0.968,1,0,not Asterionellopsis glacialis
+ag_0302,D20160909T132058_IFCB110,814,3,2016-09-09,Asterionellopsis_glacialis,36.09,34-98,3,1,1,3,""
+ag_0303,D20160911T132238_IFCB110,500,3,2016-09-11,Asterionellopsis_glacialis,46.22,34-98,5,1,2,4,""
+ag_0304,D20161001T093739_IFCB110,901,3,2016-10-01,Asterionellopsis_glacialis,52.66,34-98,7,0.999,1,4,""
+ag_0305,D20160911T090237_IFCB110,141,16,2016-09-11,Asterionellopsis_glacialis,82.77,34-98,8,1,1,8,""
+ag_0306,D20161006T173150_IFCB110,979,3,2016-10-06,Asterionellopsis_glacialis,22.52,18-34,1,0.81,1,0,not Asterionellopsis glacialis
+ag_0307,D20160913T034721_IFCB110,104,3,2016-09-13,Asterionellopsis_glacialis,109.81,>98,16,1,3,16,""
+ag_0308,D20160927T212802_IFCB110,214,16,2016-09-27,Asterionellopsis_glacialis,42.62,34-98,5,0.999,1,4,""
+ag_0309,D20160907T161758_IFCB110,707,3,2016-09-07,Asterionellopsis_glacialis,94.41,34-98,10,1,2,8,""
+ag_0310,D20160906T185543_IFCB110,111,16,2016-09-06,Asterionellopsis_glacialis,45.46,34-98,16,1,1,15,""
+ag_0311,D20160914T173920_IFCB110,107,3,2016-09-14,Asterionellopsis_glacialis,104.14,>98,8,1,1,8,""
+ag_0312,D20161015T232920_IFCB110,642,3,2016-10-15,Asterionellopsis_glacialis,80.9,34-98,7,1,2,7,""
+ag_0313,D20160826T160934_IFCB110,109,16,2016-08-26,Asterionellopsis_glacialis,29.25,18-34,1,0.662,1,0,not Asterionellopsis glacialis
+ag_0314,D20160822T152543_IFCB110,124,16,2016-08-22,Asterionellopsis_glacialis,10.73,<=18,2,0.982,1,1,""
+ag_0315,D20160929T024313_IFCB110,226,16,2016-09-29,Asterionellopsis_glacialis,23.48,18-34,4,1,1,3,""
+ag_0316,D20160926T130804_IFCB110,11,3,2016-09-26,Asterionellopsis_glacialis,68.02,34-98,4,1,1,4,""
+ag_0317,D20160812T170230_IFCB110,549,3,2016-08-12,Asterionellopsis_glacialis,127.29,>98,13,1,1,14,""
+ag_0318,D20160913T225628_IFCB110,884,16,2016-09-13,Asterionellopsis_glacialis,118.2,>98,19,1,1,24,""
+ag_0319,D20160930T170435_IFCB110,1091,3,2016-09-30,Asterionellopsis_glacialis,24.05,18-34,2,0.989,1,2,""
+ag_0320,D20161005T055804_IFCB110,278,3,2016-10-05,Asterionellopsis_glacialis,130.93,>98,21,1,1,28,""

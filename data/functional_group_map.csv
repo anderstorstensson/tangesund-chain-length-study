@@ -1,0 +1,214 @@
+class,display_name,scientificname,aphia_id,worms_class,base_group,group_fine,group,chain_forming,trophy,frac_chain_roi
+Asterionellopsis_glacialis,Asterionellopsis glacialis,Asterionellopsis glacialis,149139,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Asterionellopsis_glacialis_single,Asterionellopsis glacialis,Asterionellopsis glacialis,149139,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Cerataulina_pelagica,Cerataulina pelagica,Cerataulina pelagica,149619,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_cf_convolutus,Chaetoceros cf. convolutus,Chaetoceros,148985,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_contortus,Chaetoceros contortus,Chaetoceros contortus,149623,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_curvisetus_Chaetoceros_debilis,Chaetoceros curvisetus/debilis,Chaetoceros,148985,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,unknown,1
+Chaetoceros_danicus,Chaetoceros danicus,Chaetoceros danicus,149120,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_decipiens,Chaetoceros decipiens,Chaetoceros decipiens,149126,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_spp_chain,Chaetoceros spp.,Chaetoceros,148985,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_spp_single,Chaetoceros spp.,Chaetoceros,148985,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Chaetoceros_tenuissimus-like,Chaetoceros cf. tenuissimus,Chaetoceros,148985,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Cyclotella_spp,Cyclotella spp.,Cyclotella,148905,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Dactyliosolen_fragilissimus,Dactyliosolen fragilissimus,Dactyliosolen fragilissimus,149310,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Diatoma_tenuis-like_chain,Diatoma cf. tenuis,Diatoma,149013,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Diatoma_tenuis-like_single_cell,Diatoma cf. tenuis,Diatoma,149013,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Eucampia,Eucampia spp.,Eucampia,149130,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,unknown,1
+Guinardia_delicatula,Guinardia delicatula,Guinardia delicatula,149112,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Lauderia_spp,Lauderia spp.,Lauderia,149134,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Leptocylindrus_danicus,Leptocylindrus danicus,Leptocylindrus danicus,149106,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Leptocylindrus_danicus_Leptocylindrus_minimus,Leptocylindrus danicus/minimus,Leptocylindrus,149038,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,unknown,1
+Melosira_arctica,Melosira arctica,Melosira arctica,160537,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pauliella_taeniata,Pauliella taeniata,Pauliella taeniata,163624,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pauliella_taeniata2,Pauliella taeniata,Pauliella taeniata,163624,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pauliella_taeniata3,Pauliella taeniata,Pauliella taeniata,163624,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pauliella_taeniata4,Pauliella taeniata,Pauliella taeniata,163624,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pauliella_taeniata5,Pauliella taeniata,Pauliella taeniata,163624,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pauliella_taeniata6,Pauliella taeniata,Pauliella taeniata,163624,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Pseudo-nitzschia_spp,Pseudo-nitzschia spp.,Pseudo-nitzschia,149151,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Skeletonema_spp,Skeletonema spp.,Skeletonema,149073,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassionema_nitzschioides,Thalassionema nitzschioides,Thalassionema nitzschioides,149093,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassiosira_angulata,Thalassiosira angulata,Thalassiosira angulata,148913,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassiosira_gravida-like,Thalassiosira cf. gravida,Thalassiosira,148912,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassiosira_levanderi,Thalassiosira levanderi,Thalassiosira levanderi,149308,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassiosira_nordenskioeldii,Thalassiosira nordenskioeldii,Thalassiosira nordenskioeldii,148931,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassiosira_spp_chain,Thalassiosira spp.,Thalassiosira,148912,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Thalassiosira_spp_single,Thalassiosira spp.,Thalassiosira,148912,Bacillariophyceae,Diatoms,diatom,chain diatom,TRUE,autotroph,1
+Ciliophora,Ciliophora,Ciliophora,11,"",Other,ciliate,ciliate,FALSE,heterotroph,0
+Helicostomella-like,Choreotrichida: Metacylididae cf. Helicostomella,Metacylididae,150206,Oligotrichea,Other,ciliate,ciliate,FALSE,heterotroph,
+Laboea_strobila,Laboea strobila,Laboea strobila,101264,Oligotrichea,Other,ciliate,ciliate,FALSE,mixotroph,0
+Mesodinium_major,Mesodinium major,Mesodinium major,1476503,Litostomatea,Other,ciliate,ciliate,FALSE,unknown,0
+Mesodinium_rubrum,Mesodinium rubrum,Mesodinium rubrum,232069,Litostomatea,Other,ciliate,ciliate,FALSE,mixotroph,0
+Mesodinium_spp,Mesodinium spp.,Mesodinium,179320,Litostomatea,Other,ciliate,ciliate,FALSE,mixotroph,0
+Mesodinium_spp2,Mesodinium spp.,Mesodinium,179320,Litostomatea,Other,ciliate,ciliate,FALSE,mixotroph,0
+Mesodinium_spp3,Mesodinium spp.,Mesodinium,179320,Litostomatea,Other,ciliate,ciliate,FALSE,mixotroph,0
+Strombidium-like,Oligotrichida: Strombidiidae cf. Strombidium,Strombidiidae,1703,Oligotrichea,Other,ciliate,ciliate,FALSE,mixotroph,0
+Tintinnids,Tintinnida,Tintinnida,425497,Spirotrichea,Other,ciliate,ciliate,FALSE,unknown,0
+Cryptomonadales,Cryptomonadales,Cryptomonadales,17640,Cryptophyceae,Other,cryptophyte,cryptophyte,FALSE,autotroph,0
+Cryptophyta,Cryptophyta,Cryptophyta,17638,"",Other,cryptophyte,cryptophyte,FALSE,unknown,0
+Katablepharis_remigera,Katablepharis remigera,Katablepharis remigera,627117,Cryptophyta incertae sedis,Other,cryptophyte,cryptophyte,FALSE,heterotroph,0
+Akinete,Akinete,Cyanophyceae,146542,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,unknown,0
+Aphanizomenon_flosaquae_bundle,Aphanizomenon flosaquae,Aphanizomenon flos-aquae,248099,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Aphanizomenon_flosaquae_filament,Aphanizomenon flosaquae,Aphanizomenon flos-aquae,248099,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Aphanothece_paralleliformis,Aphanothece paralleliformis,Aphanothece paralleliformis,624961,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,
+Chroococcales,Chroococcales,Chroococcales,146543,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Chroococcus_spp,Chroococcus spp.,Chroococcus,146565,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Dolichospermum_spp_coil,Dolichospermum spp.,Dolichospermum,603709,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Dolichospermum_spp_filament,Dolichospermum spp.,Dolichospermum,603709,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Heterocyte,Heterocyte,Cyanophyceae,146542,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,unknown,0
+Merismopedia_spp,Merismopedia spp.,Merismopedia,146545,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Nodularia_spumigena_coil,Nodularia spumigena,Nodularia spumigena,160566,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Nodularia_spumigena_filament,Nodularia spumigena,Nodularia spumigena,160566,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Oscillatoriales,Oscillatoriales,Oscillatoriales,146603,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,autotroph,0
+Snowella-Woronichinia2,Snowella-Woronichinia,Cyanophyceae,146542,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,unknown,0
+Snowella_Woronichinia,Snowella Woronichinia,Cyanophyceae,146542,Cyanophyceae,Cyanobacteria,cyanobacteria,cyanobacteria,FALSE,unknown,0
+Actinocyclus_spp,Actinocyclus spp.,Actinocyclus,148944,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Attheya_spp,Attheya spp.,Attheya,160519,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Centrales_single,Centrales,Centrales,341285,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Chaetoceros_castracanei,Chaetoceros castracanei,Chaetoceros castracanei,341473,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Chaetoceros_debilis,Chaetoceros debilis,Chaetoceros debilis,961758,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Chaetoceros_debilis_Chaetoceros_curvisetus,Chaetoceros debilis/curvisetus,Chaetoceros,148985,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,
+Chaetoceros_diadema,Chaetoceros diadema,Chaetoceros diadema,149128,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Chaetoceros_didymus,Chaetoceros didymus,Chaetoceros didymus,149122,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Chaetoceros_laciniosus,Chaetoceros laciniosus,Chaetoceros laciniosus,149228,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Chaetoceros_similis,Chaetoceros similis,Chaetoceros similis,149127,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Chaetoceros_wighamii,Chaetoceros wighamii,Chaetoceros wighamii,160524,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Cocconeis-like,Achnanthales: Cocconeidaceae cf. Cocconeis,Cocconeidaceae,148988,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Corethron,Corethron spp.,Corethron,149109,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Coscinodiscus_granii,Coscinodiscus granii,Coscinodiscus granii,149271,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Coscinodiscus_radiatus,Coscinodiscus radiatus,Coscinodiscus radiatus,149158,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Coscinodiscus_spp,Coscinodiscus spp.,Coscinodiscus,148917,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Cylindrotheca_closterium_Nitzschia_longissima,Cylindrotheca closterium Nitzschia longissima,Bacillariaceae,149002,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,0
+Ditylum_brightwellii,Ditylum brightwellii,Ditylum brightwellii,149023,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Eucampia_zodiacus,Eucampia zodiacus,Eucampia zodiacus,149131,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Fragilaria,Fragilaria spp.,Fragilaria,149028,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Guinardia_flaccida,Guinardia flaccida,Guinardia flaccida,149132,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Guinardia_striata,Guinardia striata,Guinardia striata,149113,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Gyrosigma_Pleurosigma,Gyrosigma Pleurosigma,Pleurosigmataceae,149032,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,0
+Leptocylindrus_minimus,Leptocylindrus minimus,Leptocylindrus minimus,149039,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Licmophora_spp,Licmophora spp.,Licmophora,149342,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Navicula-like,Naviculales: Naviculaceae cf. Navicula,Naviculaceae,149031,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Nitzschia_frigida,Nitzschia frigida,Nitzschia frigida,175400,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Nitzschia_paleacea,Nitzschia paleacea,Nitzschia paleacea,609727,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Paralia_sulcata,Paralia sulcata,Paralia sulcata,149055,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Pennales_single,Pennales,Pennales,1304629,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Porosira_glacialis,Porosira glacialis,Porosira glacialis,156689,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Proboscia_alata,Proboscia alata,Proboscia alata,149168,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Pseudosolenia_calcar-avis,Pseudosolenia calcar-avis,Pseudosolenia calcar-avis,163344,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Rhizosolenia_hebetata_f_semispina,Rhizosolenia hebetata f semispina,"","",Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,
+Rhizosolenia_imbricata,Rhizosolenia imbricata,Rhizosolenia imbricata,149116,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Rhizosolenia_spp,Rhizosolenia spp.,Rhizosolenia,149069,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Rhizosolenia_styliformis,Rhizosolenia styliformis,Rhizosolenia styliformis,149629,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Stellarima_stellaris,Stellarima stellaris,Stellarima stellaris,149653,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Stephanopyxis-like,Melosirales: Stephanopyxidaceae cf. Stephanopyxis,Stephanopyxidaceae,149254,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,0
+Striatella_spp,Striatella spp.,Striatella,149176,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,0
+Sundstroemia_pungens,Sundstroemia pungens,Sundstroemia pungens,1590708,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,
+Sundstroemia_setigera,Sundstroemia setigera,Sundstroemia setigera,1590706,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,0
+Thalassiosira_anguste-lineata,Thalassiosira anguste-lineata,Thalassiosira anguste-lineata,148914,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Thalassiosira_punctigera,Thalassiosira punctigera,Thalassiosira punctigera,148936,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,autotroph,
+Trieres_mobiliensis,Trieres mobiliensis,Trieres mobiliensis,839991,Bacillariophyceae,Diatoms,diatom,diatom (other),FALSE,unknown,
+Akashiwo_sanguinea,Akashiwo sanguinea,Akashiwo sanguinea,232546,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Alexandrium_pseudogonyaulax,Alexandrium pseudogonyaulax,Alexandrium pseudogonyaulax,109713,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Amphidinium-Katodinium,Amphidinium-Katodinium,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Amphidinium-Katodinium2,Amphidinium-Katodinium,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Amphidinium-like,Amphidiniales: Amphidiniaceae cf. Amphidinium,Amphidiniaceae,1308689,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Amphidinium_crassum,Amphidinium crassum,Amphidinium crassum,109726,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,
+Amylax_triacantha,Amylax triacantha,Amylax triacantha,110007,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Apocalathium_malmogiense,Apocalathium malmogiense,Apocalathium malmogiense,1380043,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,
+Azadinium caudatum_var_margalefii,Azadinium caudatum var margalefii,"","",Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,
+Blixaea_quinquecornis,Blixaea quinquecornis,Blixaea quinquecornis,1360848,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,
+Cochlodinium-like,Gymnodiniales: Gymnodiniaceae cf. Cochlodinium,Gymnodiniaceae,109410,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,0
+Dinophyceae,Dinophyceae,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Dinophyceae_larger_than_30,Dinophyceae,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Dinophyceae_pair,Dinophyceae,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Dinophyceae_smaller_than_30,Dinophyceae,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Dinophysis_acuminata,Dinophysis acuminata,Dinophysis acuminata,109603,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,mixotroph,0
+Dinophysis_acuta,Dinophysis acuta,Dinophysis acuta,109604,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,mixotroph,0
+Dinophysis_norvegica,Dinophysis norvegica,Dinophysis norvegica,109637,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,mixotroph,0
+Dinophysis_spp,Dinophysis spp.,Dinophysis,109462,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,mixotroph,0
+Dinophysis_tripos,Dinophysis tripos,Dinophysis tripos,109662,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,mixotroph,
+Ensiculifera_carinata,Ensiculifera carinata,Ensiculifera carinata,233835,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Gonyaulax_spinifera,Gonyaulax spinifera,Gonyaulax spinifera,110041,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,
+Gonyaulax_spp,Gonyaulax spp.,Gonyaulax,109519,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,
+Gymnodiniales,Gymnodiniales,Gymnodiniales,109392,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Gymnodiniales_CC,Gymnodiniales,Gymnodiniales,109392,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Gymnodiniales_CS,Gymnodiniales,Gymnodiniales,109392,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Gymnodiniales_Eliptical,Gymnodiniales,Gymnodiniales,109392,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Gymnodiniales_larger_than_30,Gymnodiniales,Gymnodiniales,109392,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,
+Gymnodiniales_smaller_than_30,Gymnodiniales,Gymnodiniales,109392,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Gymnodinium_corollarium,Gymnodinium corollarium,Gymnodinium corollarium,623645,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Gymnodinium_verruculosum,Gymnodinium verruculosum,Gymnodinium verruculosum,232880,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,
+Gyrodinium_heterotropic,Gyrodinium spp.,Gyrodinium,109476,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Gyrodinium_spirale,Gyrodinium spirale,Gyrodinium spirale,109876,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,
+Heterocapsa_Azadinium,Heterocapsa Azadinium,Dinophyceae,19542,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,
+Heterocapsa_niei-like,Heterocapsa cf. niei,Heterocapsa,109540,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Heterocapsa_rotundata,Heterocapsa rotundata,Heterocapsa rotundata,110152,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Kapelodinium_vestifici,Kapelodinium vestifici,Kapelodinium vestifici,1368615,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Karenia_mikimotoi-like,Karenia cf. mikimotoi,Karenia,231788,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Karenia_spp,Karenia spp.,Karenia,231788,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Katodinium-like,Tovelliales: Tovelliaceae cf. Katodinium,Tovelliaceae,577245,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,0
+Kryptoperidinium_triquetrum,Kryptoperidinium triquetrum,Kryptoperidinium triquetrum,1346683,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Lepidodinium-like,Gymnodiniales: Gymnodiniaceae cf. Lepidodinium,Gymnodiniaceae,109410,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Lingulaulax_polyedra,Lingulaulax polyedra,Lingulaulax polyedra,1778370,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Oxytoxum_gracile,Oxytoxum gracile,Oxytoxum gracile,233870,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Peridiniales,Peridiniales,Peridiniales,109394,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,
+Peridiniales_smaller_than_30,Peridiniales,Peridiniales,109394,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unspecified,
+Peridiniella_catenata_chain,Peridiniella catenata,Peridiniella catenata,110156,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,1
+Peridiniella_catenata_single,Peridiniella catenata,Peridiniella catenata,110156,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,1
+Polykrikos_schwartzii,Polykrikos schwartzii,Polykrikos schwartzii,109901,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,
+Prorocentrum_balticum_Prorocentrum_cordatum,Prorocentrum balticum/cordatum,Prorocentrum,109566,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,
+Prorocentrum_cordatum,Prorocentrum cordatum,Prorocentrum cordatum,232376,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Prorocentrum_micans,Prorocentrum micans,Prorocentrum micans,110303,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Prorocentrum_micans_Prorocentrum_triestinum_Prorocentrum_gracile,Prorocentrum micans Prorocentrum triestinum Prorocentrum gracile,Prorocentrum,109566,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,0
+Prorocentrum_triestinum,Prorocentrum triestinum,Prorocentrum triestinum,110316,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Protoceratium_reticulatum,Protoceratium reticulatum,Protoceratium reticulatum,110321,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,
+Protoperidinium_bipes,Protoperidinium bipes,Protoperidinium bipes,110208,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,
+Protoperidinium_spp,Protoperidinium spp.,Protoperidinium,109553,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,
+Pyrocystis_cf_lunula,Pyrocystis cf. lunula,Pyrocystis,109571,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,unknown,
+Scrippsiella_group,Scrippsiella group,Scrippsiella,109545,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Torodinium_robustum,Torodinium robustum,Torodinium robustum,109889,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Tripos_furca,Tripos furca,Tripos furca,840627,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Tripos_fusus,Tripos fusus,Tripos fusus,840626,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Tripos_lineatus,Tripos lineatus,Tripos lineatus,837459,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Tripos_longipes,Tripos longipes,Tripos longipes,841259,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Tripos_macroceros,Tripos macroceros,Tripos macroceros,841260,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,
+Tripos_muelleri,Tripos muelleri,Tripos muelleri,495363,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,autotroph,0
+Warnowia-like,Gymnodiniales: Warnowiaceae cf. Warnowia,Warnowiaceae,109415,Dinophyceae,Dinoflagellates,dinoflagellate,dinoflagellate,FALSE,heterotroph,0
+Ebria_tripartita,Ebria tripartita,Ebria tripartita,118051,Thecofilosea,Other,heterotrophic flagellate,heterotroph/other,FALSE,heterotroph,0
+Echinoderm_larvae,Echinoderm larvae,Echinodermata,1806,"",Other,metazoan,heterotroph/other,FALSE,unknown,0
+Mussel_larvae,Mussel larvae,Bivalvia,105,Bivalvia,Other,metazoan,heterotroph/other,FALSE,unknown,0
+Air_bubbles,Air bubbles,"","","",,non-plankton/other,other,FALSE,unknown,0
+Beads,Beads,"","","",,non-plankton/other,other,FALSE,unknown,0
+Debris,Debris,"","","",,non-plankton/other,other,FALSE,unknown,0
+Unicells,Unicells,Biota,1,"",,non-plankton/other,other,FALSE,unknown,0
+Zooplankton,Zooplankton,Crustacea,1066,"",,non-plankton/other,other,FALSE,unknown,0
+mixed,mixed,"","","",,non-plankton/other,other,FALSE,unknown,0
+unclassified,unclassified,"","","",,non-plankton/other,other,FALSE,unknown,0
+Apedinella_radians,Apedinella radians,Apedinella radians,248097,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Binuclearia_lauterbornii,Binuclearia lauterbornii,Binuclearia lauterbornii,575737,Ulvophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Calciopappus_sp,Calciopappus sp.,Calciopappus,235858,Coccolithophyceae,Other,haptophyte,other flagellate/nano,FALSE,unknown,0
+Chlorococcales,Chlorococcales,Chlorococcales,17111,Chlorophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Chrysochromulina_lanceolata,Chrysochromulina lanceolata,Chrysochromulina lanceolata,388470,Coccolithophyceae,Other,haptophyte,other flagellate/nano,FALSE,unknown,0
+Chrysochromulina_parkeae,Chrysochromulina parkeae,Chrysochromulina parkeae,115126,Coccolithophyceae,Other,haptophyte,other flagellate/nano,FALSE,mixotroph,0
+Cymbomonas_tetramitiformis,Cymbomonas tetramitiformis,Cymbomonas tetramitiformis,134545,Pyramimonadophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Dictyocha_fibula,Dictyocha fibula,Dictyocha fibula,157463,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Dictyochales,Dictyochales,Dictyochales,157256,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Dictyochales_transformation,Dictyochales,Dictyochales,157256,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Dinobryon_spp,Dinobryon spp.,Dinobryon,157240,Chrysophyceae,Other,chrysophyte,other flagellate/nano,FALSE,mixotroph,1
+Euglenophyceae,Euglenophyceae,Euglenophyceae,19539,Euglenophyceae,Other,euglenophyte,other flagellate/nano,FALSE,autotroph,0
+Eutreptiella_braarudii,Eutreptiella braarudii,Eutreptiella braarudii,248121,Euglenophyceae,Other,euglenophyte,other flagellate/nano,FALSE,autotroph,0
+Eutreptiella_sp,Eutreptiella sp.,Eutreptiella,17657,Euglenophyceae,Other,euglenophyte,other flagellate/nano,FALSE,autotroph,0
+Heterosigma-like,Chattonellales: Chattonellaceae cf. Heterosigma,Chattonellaceae,160583,Raphidophyceae,Other,other stramenopile,other flagellate/nano,FALSE,autotroph,0
+Meringosphaera_mediterranea,Meringosphaera mediterranea,Meringosphaera mediterranea,248129,Xanthophyceae,Other,other stramenopile,other flagellate/nano,FALSE,autotroph,0
+Monoraphidium_spp,Monoraphidium spp.,Monoraphidium,160590,Chlorophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Octactis_speculum,Octactis speculum,Octactis speculum,1310442,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Oocystis_spp,Oocystis spp.,Oocystis,178611,Trebouxiophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Pseudochattonella-like,Florenciellales: Florenciellales incertae sedis cf. Pseudochattonella,Florenciellales incertae sedis,368900,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Pseudopedinella-like,Pedinellales: Actinomonadaceae cf. Pseudopedinella,Actinomonadaceae,1652121,Dictyochophyceae,Other,dictyochophyte,other flagellate/nano,FALSE,autotroph,0
+Pterosperma_spp,Pterosperma spp.,Pterosperma,160595,Pyramimonadophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,
+Pyramimonas_longicauda,Pyramimonas longicauda,Pyramimonas longicauda,160513,Pyramimonadophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,
+Pyramimonas_spp_large,Pyramimonas spp.,Pyramimonas,134529,Pyramimonadophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Pyramimonas_spp_small,Pyramimonas spp.,Pyramimonas,134529,Pyramimonadophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Scenedesmus_spp,Scenedesmus spp.,Scenedesmus,160602,Chlorophyceae,Other,chlorophyte,other flagellate/nano,FALSE,autotroph,0
+Uroglenopsis_sp,Uroglenopsis sp.,Uroglenopsis,555950,Chrysophyceae,Other,chrysophyte,other flagellate/nano,FALSE,autotroph,1
