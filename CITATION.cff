@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite both the software and the paper it accompanies (preferred-citation)."
 title: "Tångesund diatom chain-length study: analysis code"
 type: software
+doi: 10.5281/zenodo.24393873
 authors:
   - family-names: Torstensson
     given-names: Anders

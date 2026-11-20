@@ -6,6 +6,9 @@ Analysis code for:
 > chain length and cell size with depth across a coastal halocline.* (manuscript
 > submitted)
 
+Archived on Zenodo: [doi:10.5281/zenodo.24393873](https://doi.org/10.5281/zenodo.24393873)
+(concept DOI, resolves to the latest version).
+
 An Imaging FlowCytobot (IFCB) sampled six depths (3–16 m) at Tångesund on the Swedish
 Skagerrak coast from 10 August to 17 October 2016 (2,743 samples). YOLO detectors count
 the cells in each imaged diatom chain. The scripts take the per-ROI tables to every figure
@@ -251,8 +254,8 @@ not v1.0.0. To use another Python installation, set `RETICULATE_PYTHON=/path/to/
 
 ## Citation
 
-Please cite the paper above, together with `iRfcb` (Torstensson 2025), `SHARK4R` (Lindh
-and Torstensson 2026), WHOI `ifcb-features` and the YOLO colony-cell counters of Groves et
+Please cite the paper above and this code (doi:10.5281/zenodo.24393873), together with
+`iRfcb` (Torstensson 2025), `SHARK4R` (Lindh and Torstensson 2026), WHOI `ifcb-features` and the YOLO colony-cell counters of Groves et
 al. (2026).
 
 ## License
